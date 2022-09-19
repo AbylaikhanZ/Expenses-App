@@ -1,14 +1,11 @@
-## Getting Started
+##   Personal   Expenses   App 
+This is my second app ever created on Flutter. It is used to keep track of your expenses. It is a basic app that allows you to add certain transactions, delete them and observe the statistical bar chart for the last 7 days.
 
-This project is a starting point for a Flutter application.
+# Initially there are no transactions, you may add them by clicking the "+" button in the bottom or the top right of the screen 
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_1663605339](https://user-images.githubusercontent.com/113607198/191069896-4d1b7363-4050-46ac-8b56-c6c32c2450ee.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# As you add transactions, you may observe them on the scrollable screen
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-#   P e r s o n a l   E x p e n s e s   A p p  
- 
+![Screenshot_1663605334](https://user-images.githubusercontent.com/113607198/191070228-b074c3d2-2ec6-4dcd-8399-c14c3f092093.png)
+![Screenshot_1663605326](https://user-images.githubusercontent.com/113607198/191070234-3c9663a7-66a6-496a-bb45-835e55b94689.png)
