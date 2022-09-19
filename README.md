@@ -7,5 +7,5 @@ This is my second app ever created on Flutter. It is used to keep track of your 
 
 ### As you add transactions, you may observe them on the scrollable screen
 
-![](https://user-images.githubusercontent.com/113607198/191070228-b074c3d2-2ec6-4dcd-8399-c14c3f092093.png | width=300)
-![](https://user-images.githubusercontent.com/113607198/191070234-3c9663a7-66a6-496a-bb45-835e55b94689.png =400x800)
+![Screenshot_2](https://user-images.githubusercontent.com/113607198/191070228-b074c3d2-2ec6-4dcd-8399-c14c3f092093.png | width=300)
+![Screenshot_3](https://user-images.githubusercontent.com/113607198/191070234-3c9663a7-66a6-496a-bb45-835e55b94689.png =400x800)
